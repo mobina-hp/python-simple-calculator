@@ -1,10 +1,10 @@
-Simple Python Calculator 🧮
+##Simple Python Calculator 🧮
 My first Python project!
 
-About:
+##About:
 A simple calculator written in Python that performs basic arithmetic operations.
 
-Features:
+##Features:
 Addition (+)
 Subtraction (-)
 Multiplication (*)
@@ -12,11 +12,11 @@ Division (/)
 Division by zero handling
 Invalid operator handling
 
-Concepts Used:
+##Concepts Used:
 Variables
 User Input
 Type Conversion
 If / Elif / Else Statements
 
-Language:
+##Language:
 Python 🐍
